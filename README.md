@@ -16,4 +16,4 @@ I am currently a Master of Computer Science (Applied Computing) student.
 - I would like to learn practical skills that can help me improve software quality and collaborate effectively with other developers.
 
 ## Fun Fact
-☕ I brew my coffee as carefully as I write my code — both require patience and precision.
+☕ I brew my coffee as carefully as I write my code.
