@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**CYC7b/CYC7b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yichen.
 
-Here are some ideas to get you started:
+I am currently a Master of Computer Science (Applied Computing) student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🇨🇳 From China, with a bachelor's degree in Computer Science
+- 🎓 Master's student in Computer Science
+- 💻 Interested in Software Engineering and Artificial Intelligence
+- 🤖 Enjoy exploring new AI tools and technologies
+- 🌱 Currently learning more about software design and development
+
+## Course Expectations
+- Through this course, I hope to better understand how software systems are designed, maintained, and evolved in real-world projects. 
+- I would like to learn practical skills that can help me improve software quality and collaborate effectively with other developers.
+
+## Fun Fact
+☕ I brew my coffee as carefully as I write my code — both require patience and precision.
