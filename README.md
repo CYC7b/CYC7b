@@ -21,5 +21,3 @@ I am currently a Master of Computer Science (Applied Computing) student.
 ## Contact
 - 📧 Email: 24209629@siswa.um.edu.my
 - 💻 GitHub: https://github.com/CYC7b
-
-![My Photo](profile.jpg)
