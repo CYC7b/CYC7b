@@ -17,3 +17,8 @@ I am currently a Master of Computer Science (Applied Computing) student.
 
 ## Fun Fact
 ☕ I brew my coffee as carefully as I write my code.
+
+## Contact
+- 📧 Email: 24209629@siswa.um.edu.my
+- 💻 GitHub: https://github.com/CYC7b
+
